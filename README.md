@@ -9,14 +9,7 @@ The model is built using the **Random Forest Classifier**, a supervised machine 
 ## 🌐 Live Demo
 
 🔗 **Live App:**  
-[Your Streamlit App Link]
-
----
-
-## 💻 GitHub Repository
-
-🔗 **Project Repository:**  
-[Your GitHub Repo Link]
+[[Your Streamlit App Link](https://titanic-survival-predictor-mxwgzmvvlb2xcr69aruory.streamlit.app/)]
 
 ---
 
