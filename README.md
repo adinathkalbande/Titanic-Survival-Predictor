@@ -67,4 +67,4 @@ This is a **Binary Classification Problem**:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone [Your GitHub Repo Link]
+git clone [https://github.com/adinathkalbande/Titanic-Survival-Predictor]
