@@ -60,4 +60,4 @@ Random Forest was chosen because:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone [Your GitHub Repo Link]
+git clone [[Your GitHub Repo Link](https://github.com/adinathkalbande/Titanic-Survival-Predictor)]
